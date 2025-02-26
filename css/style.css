@@ -1,0 +1,92 @@
+@font-face { font-family: '8bitoperator jve'; src: url('8bitoperator_jve.ttf'); } 
+
+html {
+    font-size: 32px;
+}
+
+body {
+    font-family: '8bitoperator jve';
+}
+
+.navbar {
+    font-size: 50px;
+}
+
+.fa-shopping-cart {
+    font-size: 60px;
+    color:#dc3545;
+    transition: all .3s linear;
+}
+.fa-shopping-cart:hover {
+    color: white;
+}
+.all {
+    display: flex;
+}
+.card {
+    margin: 100px 25px 0 50px;
+    display: inline-block;
+}
+.sans {
+    font-family: "Comic Sans MS", "Comic Sans";
+}
+.cena {
+    float: right;
+    font-family: '8bitoperator jve';
+}
+.btn {
+    font-family: '8bitoperator jve';
+}
+.filtr {
+    font-size: 50px;
+    margin: 50px 250px 0 50px;
+    padding: auto;
+}
+input[type='radio'] { 
+    transform: scale(2); 
+}
+
+.carousel {
+    width: 40%;
+    display: block;
+    margin: 150px 200px 150px 300px;
+}
+
+.container {
+    width: 35%;
+    margin: 150px 0 150px 0;
+    padding: 100px;
+    font-size: 50px;
+    background-color: #f4e9ea;
+    border-radius: 5%;
+}
+.ccena {
+    color: #dc3545;
+}
+.nazev {
+    font-size: 100px;
+}
+
+.recenze {
+    box-shadow: #f4e9ea 0 0 100px 0;
+}
+
+.haha {
+    display: flex;
+    margin: 2%;
+    justify-content: center;
+    margin-left: 40%;
+    margin-right: 40%;
+
+}
+
+.cardss {
+    display: flex;
+    justify-content: center;
+}
+
+.kod {
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+}
